@@ -13,7 +13,7 @@
 			loopCheckTime:		50,
 			loopMaxNumber:		5,
 			baitClass:			'pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links',
-			baitStyle:			'width: 3px !important; height: 3px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;',
+			baitStyle:			'width: 10px !important; height: 10px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;',
 			debug:				false
 		};
 		this._var = {
